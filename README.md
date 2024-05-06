@@ -4,7 +4,7 @@
 </div>
 
 ## About Me
-I'm a passionate coder on a quest for creativity and excellence. My interests range from software development to open-source contributions.
+I'm a Tech Aficionado fueling innovation with passion, code, and curiosity. Embracing challenges, fostering collaboration, and shaping tomorrow's tech landscape, one line at a time. My interests range from software development to open-source contributions.
 
 - 💻 I enjoy diving deep into new technologies and exploring innovative solutions to real-world challenges.
   
@@ -12,9 +12,9 @@ I'm a passionate coder on a quest for creativity and excellence. My interests ra
   
 - 📚 Always striving for personal growth in the dynamic world of tech.
   
-- 💬 Ask me about anything tech-realted queries.
+- 💬 Ask me about anything related to technology, programming, open source contributions and so on.
   
-- 📫 When I'm not coding, you can find me bparkavi05@gmail.com
+- 📫 How to reach me: bparkavi05@gmail.com
 
 
 Let's connect and create something amazing together! 🚀
