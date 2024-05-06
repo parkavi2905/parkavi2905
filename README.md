@@ -1,7 +1,6 @@
 <div align="center">
-    <h1>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Parkavi B;This+is..;..my+Github..;" alt="Typing SVG"/>
-    </h1>
+    <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Parkavi+B;This+is..;..my+Github..;" alt="Typing SVG"/></h1>
+    <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p>
 </div>
 
 ## About Me
@@ -19,7 +18,7 @@ I'm a passionate coder on a quest for creativity and excellence. My interests ra
 
 
 Let's connect and create something amazing together! 🚀
-<div align="center">
+<div align="left">
     <!-- Replace href with your links -->
     <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/parkavi-b-85a215269//">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
