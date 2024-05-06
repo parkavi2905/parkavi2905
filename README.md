@@ -1,9 +1,8 @@
-![Landing Page](https://github.com/parkavi2905/parkavi2905/assets/133233046/42110e27-c5aa-49e6-8160-ea15df34a561)
+![Landing Page]
 
-- 👋 Hi, I’m @parkavi2905
-- 👀 I’m interested in ... softwares
-- 🌱 I’m currently learning ... development
-- 📫 How to reach me ... https://www.linkedin.com/in/parkavi-b-85a215269/
+- 👋  Hello there! I'm Parkavi, a passionate enthusiast with a love for coding and problem-solving. 
+- 💻 I enjoy diving deep into new technologies and exploring innovative solutions to real-world challenges.
+- 📫  When I'm not coding, you can find me [bparkavi05@gmail.com]. Let's connect and collaborate on exciting projects! 🚀
 
 <!---
 parkavi2905/parkavi2905 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
