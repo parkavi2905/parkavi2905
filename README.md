@@ -3,18 +3,18 @@
     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p>
 </div>
 
-## About Me
+## About Me👋
 I'm a Tech Aficionado fueling innovation with passion, code, and curiosity. Embracing challenges, fostering collaboration, and shaping tomorrow's tech landscape, one line at a time. My interests range from software development to open-source contributions.
 
-- 💻 I enjoy diving deep into new technologies and exploring innovative solutions to real-world challenges.
+- 💻 **Currently Learning**: I enjoy diving deep into new technologies and exploring innovative solutions to real-world challenges.
   
-- 🌱 Contributing to open-source projects and advocating for knowledge-sharing.
+- 🌱 **Open to Collaboration:** Contributing to open-source projects and advocating for knowledge-sharing.
   
-- 📚 Always striving for personal growth in the dynamic world of tech.
+- 🎓 **Education:** B.Tech in Information Technology at Saranathan College of Engineering, Tiruchirappalli.
   
-- 💬 Ask me about anything related to technology, programming, open source contributions and so on.
+- 💬 **Ask Me About:** Anything related to technology, programming, open source contributions and so on.
   
-- 📫 How to reach me: bparkavi05@gmail.com
+- 📫 **How to reach me:** bparkavi05@gmail.com
 
 
 Let's connect and create something amazing together! 🚀
