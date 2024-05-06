@@ -19,6 +19,12 @@ I'm a passionate coder on a quest for creativity and excellence. My interests ra
 
 
 Let's connect and create something amazing together! 🚀
+<div align="center">
+    <!-- Replace href with your links -->
+    <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/parkavi-b-85a215269//">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+</div>
 
 <!---
 parkavi2905/parkavi2905 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
