@@ -20,7 +20,7 @@ I'm a Tech Aficionado fueling innovation with passion, code, and curiosity. Embr
 Let's connect and create something amazing together! 🚀
 <div align="left">
     <!-- Replace href with your links -->
-    <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/parkavi-b-85a215269//">
+    <a href="https://www.linkedin.com/in/parkavi-b-85a215269//">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
 </div>
